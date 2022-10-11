@@ -8,6 +8,7 @@ public class B extends A {
 		
 		a1.Haii();
 		
+
 	}
 		public void Hello () {
 	
